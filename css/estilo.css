@@ -1,0 +1,39 @@
+.menu .linkMenu{
+    text-decoration: none;
+    margin: 20px 10px 0px;
+    text-transform: uppercase;
+    color: blue;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}   
+.header{
+    width: 100%;
+    height: 100%;
+    background-color: blanchedalmond;
+}
+
+.conteudo{
+    width: 100%;
+    height: 300px;
+    background-color: aliceblue;
+}
+
+.esquerda{
+    width: 50%;
+    height: 100px;
+    float: left;
+    background-color: brown;
+}
+
+.direita{
+    width: 30%;
+    height: 160px;
+    float: right;
+    background-color: blueviolet;
+}
+
+.footer{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+}
